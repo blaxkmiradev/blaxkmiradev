@@ -24,7 +24,7 @@
 
 > **"Code it. Break it. Own it."**
 
-Hey, I'm **Rikixz** — known online as **blaxkmira**. A 17-year-old **pro vibe coder** and **bug hunter** based in 🇰🇭 **Cambodia**. I build web apps by day and hunt vulnerabilities by night. Security isn't just a job — it's a mindset.
+Hey, I'm **Rikixz** — known online as **blaxkmiradev**. A 17-year-old **pro vibe coder** and **bug hunter** based in 🇰🇭 **Cambodia**. I build web apps by day and hunt vulnerabilities by night. Security isn't just a job — it's a mindset.
 
 ---
 
@@ -55,10 +55,11 @@ Hey, I'm **Rikixz** — known online as **blaxkmira**. A 17-year-old **pro vibe 
 class Rikixz:
     def __init__(self):
         self.name       = "Rikixz"
-        self.alias      = "blaxkmira"
-        self.location   = "Cambodia 🇰🇭"
+        self.alias      = "blaxkmiradev"
+        self.location   = "Phnom Penh, Cambodia 🇰🇭"
         self.age        = 17
         self.roles      = ["Web App Developer", "Bug Hunter", "Vibe Coder"]
+        self.company    = "Isekai Group Company of Cambodia"
 
     def build(self):
         return "Full-stack web apps with Flask, Vue, and Node.js"
@@ -85,13 +86,30 @@ class Rikixz:
 
 ---
 
+## 📌 Featured Projects
+
+| Project | Description | Language |
+|---------|-------------|----------|
+| [🖥️ simple-panel-nodejs](https://github.com/blaxkmiradev/simple-panel-nodejs) | Minimal Node.js panel — single `index.js` file | ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| [🍪 Cookie-stealler](https://github.com/blaxkmiradev/Cookie-stealler) | Cookie grabber that sends data to a Discord webhook | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| [🔑 Bruteforce-Login](https://github.com/blaxkmiradev/Bruteforce-Login) | Beginner-friendly brute-force login script with combolist support | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| [💀 Mira-Ransomare](https://github.com/blaxkmiradev/Mira-Ransomare) ⭐3 | Python ransomware — for testing/pranks on your own machine only | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| [🔌 Cookie-Extention](https://github.com/blaxkmiradev/Cookie-Extention) | Browser extension with Discord webhook integration | ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| [📥 Pinterest-downloader](https://github.com/blaxkmiradev/Pinterest-downloader) | Download images & videos from Pinterest profiles or links | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+
+> ⚠️ *Security tools are for educational & authorized testing purposes only. Don't be evil.*
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
 
-![blaxkmira's GitHub stats](https://github-readme-stats.vercel.app/api?username=blaxkmira&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00f5a0&icon_color=ff4757&text_color=ffffff)
+![blaxkmiradev's GitHub stats](https://github-readme-stats.vercel.app/api?username=blaxkmiradev&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00f5a0&icon_color=ff4757&text_color=ffffff)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blaxkmira&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00f5a0&text_color=ffffff)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blaxkmiradev&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00f5a0&text_color=ffffff)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=blaxkmiradev&theme=radical&hide_border=true&background=0d1117&ring=00f5a0&fire=ff4757&currStreakLabel=00f5a0)
 
 </div>
 
@@ -101,7 +119,9 @@ class Rikixz:
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-blaxkmira-181717?style=for-the-badge&logo=github)](https://github.com/blaxkmira)
+[![GitHub](https://img.shields.io/badge/GitHub-blaxkmiradev-181717?style=for-the-badge&logo=github)](https://github.com/blaxkmiradev)
+[![Telegram](https://img.shields.io/badge/Telegram-krisneverdie-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/krisneverdie)
+[![Facebook](https://img.shields.io/badge/Facebook-rikixz-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/rikixz)
 
 </div>
 
@@ -109,8 +129,8 @@ class Rikixz:
 
 <div align="center">
 
-*Built with 🖤 from Cambodia — Rikixz aka blaxkmira*
+*Built with 🖤 from Cambodia — Rikixz aka blaxkmiradev*
 
-![Visitor Count](https://komarev.com/ghpvc/?username=blaxkmira&style=flat-square&color=00f5a0)
+![Visitor Count](https://komarev.com/ghpvc/?username=blaxkmiradev&style=flat-square&color=00f5a0)
 
 </div>

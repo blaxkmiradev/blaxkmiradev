@@ -96,7 +96,7 @@ class Rikixz:
 
 <div align="center">
 
-![https://github-readme-stats.vercel.app/api?username=blaxkmiradev&show_icons=true&theme=radical&hide_border=true&title_color=00f5a0&icon_color=ff4757&text_color=ffffff&bg_color=0d1117)
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blaxkmiradev&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00f5a0&text_color=ffffff)
 

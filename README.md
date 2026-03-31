@@ -78,7 +78,7 @@
 
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blaxkmiradev&layout=donut&theme=radical&hide_border=true&bg_color=0d1117&title_color=00f5a0&text_color=ffffff&langs_count=8)
+
 
 </div>
 

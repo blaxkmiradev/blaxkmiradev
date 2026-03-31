@@ -1,13 +1,6 @@
 <div align="center">
 
-```
-██████╗ ██╗██╗  ██╗██╗██╗  ██╗███████╗
-██╔══██╗██║██║ ██╔╝██║╚██╗██╔╝╚══███╔╝
-██████╔╝██║█████╔╝ ██║ ╚███╔╝   ███╔╝ 
-██╔══██╗██║██╔═██╗ ██║ ██╔██╗  ███╔╝  
-██║  ██║██║██║  ██╗██║██╔╝ ██╗███████╗
-╚═╝  ╚═╝╚═╝╚═╝  ╚═╝╚═╝╚═╝  ╚═╝╚══════╝
-```
+![header](https://media.giphy.com/media/sNUWF7fAUP2q4/giphy.gif)
 
 ### `blaxkmiradev` · Rikixz
 
@@ -40,9 +33,9 @@ class Rikixz:
     company  = "Isekai Group Company of Cambodia"
     langs    = ["Khmer 🇰🇭", "Russian 🇷🇺", "English"]
 
-    def stack(self):   return ["Flask", "Vue.js", "Node.js", "Python", "C++"]
+    def stack(self):    return ["Flask", "Vue.js", "Node.js", "Python", "C++"]
     def security(self): return ["Burp Suite", "Recon", "Web App Testing", "Bug Bounty"]
-    def vibe(self):    return "Clean code + good music 🎧"
+    def vibe(self):     return "Clean code + good music 🎧"
 ```
 
 ---
@@ -95,8 +88,6 @@ class Rikixz:
 ## 📊 GitHub Stats
 
 <div align="center">
-
-
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blaxkmiradev&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00f5a0&text_color=ffffff)
 

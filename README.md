@@ -84,32 +84,6 @@
 
 ---
 
-### 🏆 Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=blaxkmiradev&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/blaxkmiradev)
-
-</div>
-
----
-
-### 🐍 Contributions
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/blaxkmiradev/blaxkmiradev/blob/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/blaxkmiradev/blaxkmiradev/blob/output/github-snake.svg" />
-  <img alt="snake animation" src="https://github.com/blaxkmiradev/blaxkmiradev/blob/output/github-snake-dark.svg" />
-</picture>
-
-> activate snake: add [Platane/snk](https://github.com/Platane/snk) action → push to `output` branch
-
-</div>
-
----
-
 ### 📡 Find Me
 
 <div align="center">
@@ -124,7 +98,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00f5a0,ff4757&height=100&section=footer&fontSize=16&fontColor=ffffff&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00f5a0,ff4757&height=100&section=footer&animation=twinkling" width="100%"/>
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=blaxkmiradev&style=flat-square&color=00f5a0&label=VISITORS)
 

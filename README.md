@@ -17,10 +17,10 @@
 
 <br>
 
-![Cambodia](https://img.shields.io/badge/🇰🇭_Phnom_Penh-0d1117?style=for-the-badge&logo=googlemaps&logoColor=00f5a0)
-![Russia](https://img.shields.io/badge/🇷🇺_Russian_roots-0d1117?style=for-the-badge&logoColor=ff4757)
+![Cambodia](https://img.shields.io/badge/%F0%9F%87%B0%F0%9F%87%AD_Phnom_Penh-0d1117?style=for-the-badge&logoColor=00f5a0)
+![Russia](https://img.shields.io/badge/%F0%9F%87%B7%F0%9F%87%BA_Russian_roots-0d1117?style=for-the-badge&logoColor=ff4757)
 ![Age](https://img.shields.io/badge/AGE_17-0d1117?style=for-the-badge&logoColor=ffffff)
-![Company](https://img.shields.io/badge/Isekai_Group_Cambodia-0d1117?style=for-the-badge&logo=briefcase&logoColor=00f5a0)
+![Company](https://img.shields.io/badge/Isekai_Group_Cambodia-0d1117?style=for-the-badge&logoColor=00f5a0)
 
 </div>
 
@@ -74,11 +74,11 @@
 
 <div align="center">
 
-![Streak](https://streak-stats.demolab.com?user=blaxkmiradev&theme=radical&hide_border=true&background=0d1117&ring=00f5a0&fire=ff4757&currStreakLabel=00f5a0&sideLabels=ffffff&dates=555555)
+[![GitHub Streak](https://streak-stats.demolab.com?user=blaxkmiradev&theme=radical&hide_border=true&background=0d1117&ring=00f5a0&fire=ff4757&currStreakLabel=00f5a0&sideLabels=ffffff&dates=555555)](https://git.io/streak-stats)
 
 <br>
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blaxkmiradev&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00f5a0&text_color=ffffff)](https://github.com/blaxkmiradev)
 
 </div>
 
@@ -90,7 +90,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/blaxkmiradev)
 [![Telegram](https://img.shields.io/badge/Telegram-0d1117?style=for-the-badge&logo=telegram&logoColor=2CA5E0)](https://t.me/krisneverdie)
-[![Facebook](https://img.shields.io/badge/Facebook-0d1117?style=for-the-badge&logo=facebook&logoColor=1877F2)](https://facebook.com/rikixz)
+[![Facebook](https://img.shields.io/badge/Facebook-0d1117?style=for-the-badge&logo=facebook&logoColor=1877F2)](https://www.facebook.com/rikixz)
 
 </div>
 

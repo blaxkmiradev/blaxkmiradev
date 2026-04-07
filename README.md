@@ -5,12 +5,12 @@
 <br>
 
 ```
-██████╗ ██╗██╗  ██╗██╗██╗  ██╗███████╗
-██╔══██╗██║██║ ██╔╝██║╚██╗██╔╝╚══███╔╝
-██████╔╝██║█████╔╝ ██║ ╚███╔╝   ███╔╝ 
-██╔══██╗██║██╔═██╗ ██║ ██╔██╗  ███╔╝  
-██║  ██║██║██║  ██╗██║██╔╝ ██╗███████╗
-╚═╝  ╚═╝╚═╝╚═╝  ╚═╝╚═╝╚═╝  ╚═╝╚══════╝
+██████╗   ██╗  ██╗  ██╗  ██╗  ██╗  ██╗  ███████╗
+██╔══██╗  ██║  ██║ ██╔╝  ██║  ╚██╗██╔╝  ╚════██║
+██████╔╝  ██║  █████╔╝   ██║   ╚███╔╝       ██╔╝
+██╔══██╗  ██║  ██╔═██╗   ██║   ██╔██╗      ██╔╝ 
+██║  ██║  ██║  ██║  ██╗  ██║  ██╔╝ ██╗  ███████╗
+╚═════╝   ╚═╝  ╚═╝  ╚═╝  ╚═╝  ╚═╝  ╚═╝  ╚══════╝
 ```
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&pause=1000&color=00F5A0&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%F0%9F%92%BB;Security+Researcher+%F0%9F%94%90;Bug+Hunter+%F0%9F%90%9B;%22Build+it.+Break+it.+Understand+it.%22)](https://git.io/typing-svg)
@@ -26,7 +26,7 @@
 
 ---
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=blaxkmiradev&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00f5a0&icon_color=ff4757&text_color=ffffff&include_all_commits=true&count_private=true" width="400"/>
+<img align="right" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=blaxkmiradev&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00f5a0&icon_color=ff4757&text_color=ffffff&include_all_commits=true&count_private=true" width="400"/>
 
 ```bash
 ┌─[rikixz@Skid]─[~]
@@ -78,7 +78,7 @@
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blaxkmiradev&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00f5a0&text_color=ffffff)](https://github.com/blaxkmiradev)
+[![Top Langs](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=blaxkmiradev&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00f5a0&text_color=ffffff)](https://github.com/blaxkmiradev)
 
 </div>
 
